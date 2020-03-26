@@ -1,0 +1,7 @@
+mydb.db
+.idea
+__pycache__
+build
+temp
+venv
+Main.spec
